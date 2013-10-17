@@ -1,8 +1,0 @@
-2f60266 fix test name
-74f6e5e add test script
-1ce0e4c add changelog
-183f4d6 display copyright
-539e0da display copyright
-849e119 Add file header
-a5d6268 Add build time
-6737e7f Initial commit
