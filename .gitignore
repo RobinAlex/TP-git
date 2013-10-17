@@ -1,0 +1,6 @@
+# exclure .exe .dll
+*.exe
+*.dll
+
+# exclure temporaire
+*~
