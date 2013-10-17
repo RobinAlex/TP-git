@@ -4,3 +4,6 @@
 
 # exclure temporaire
 *~
+
+# exclure changelog
+changelog.txt
