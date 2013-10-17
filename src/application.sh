@@ -1,4 +1,4 @@
-### application.bat - 2013 - ROBIN  ###
+### application.bat - 2013 - ROBIN Alexandre - MAHE KILIAN ###
 
 version = "2"
 build_hour = "11H00"
